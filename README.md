@@ -3,4 +3,4 @@ Group project - authored by: Clair Gustafson, Zach Beecher, and Jeff Haupt
 
 ## Entity Relationship Diagram
 _by Zach Beecher_
-![DB Diagram](https://drive.google.com/file/d/14bEU49Ei26gOcNpN1a1zCaSaUOEAFEMH/view?usp=sharing)
+![DB Diagram](https://www.dropbox.com/s/w8hormju5lz4vle/ZB_DB_Diagram.png?dl=0)
